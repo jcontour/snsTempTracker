@@ -11,11 +11,11 @@
 DHTesp dht;
 
 // Wifi info
-const char* ssid     = "LanDownUnder";
-const char* password = "beandip123";
+const char* ssid     = "WIFI NAME";
+const char* password = "WIFI PASSWORD";
 
 // ThingSpeak info
-const char* apiKey = "WGIUBQB5D6FNYFPL";
+const char* apiKey = "API KEY";
 const char* resource = "/update?api_key=";
 const char* server = "api.thingspeak.com";
 
